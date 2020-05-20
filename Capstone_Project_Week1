@@ -1,0 +1,43 @@
+#A. Introduction
+
+A.1.Description & Discussion of the Background
+
+The primary issue that is affecting the world nowadays is COVID-19. No country has been left untouched. It is a deadly infectious disease that the world has never witnessed before. It is responsible for the loss of many lives and left the affected countries in both deep physical and economic depression. 
+
+This all started in December 2019 in Wuhan, China. Since then it has spread globally at an alarming rate. As a result, the World Health Organization declared the COVID‑19 outbreak as a pandemic on March 11, 2020.  As of May 19, 2020, more than 4.8 million cases have been reported across 188 countries and territories, resulting in more than 315k deaths. It is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). People who are affected by this virus experience fever, cough, fatigue, shortness of breath, and loss of smell and taste. There is no vaccine yet, which means the only method of prevention is through self-quarantine.
+
+Considering the distressful situation that the world is in, I believe that selecting COVID-19 as my topic makes the most sense. So it's my mere effort to analyze the cumulative data of confirmed cases, deaths, and recovered cases over time. My main focus is to analyze the spread trend of this virus all over the world with the right visualizations and also to cluster the countries affected accordingly.
+
+We need to build the courage and act in harmony and peace to fight against this situation, hoping to see the world smile again overcoming the fear of death.
+
+ A.2. Data Description
+ In consideration of the COVID 19 problem I have found Open data  available through reliable sources:
+
+ I  have found  Time-series  COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University, the repository has several datasets, among those I will be using dataset featuring the confirmed cases, no of deaths, and active cases by countries, I will be downloading, preprocessing the data, and creating a World map featuring the COVID-19 stats by countries.
+
+ I will also be analyzing the USA country separately, I  have found a Time series dataset which also comes from a public dataset by NYT, located in the GitHub, this dataset provides information on COVID-19 cases per US counties. I will be creating maps to display the stats by counties.
+
+ I will be using the Foursquare API's to analyze single county to see the most affected venues by this pandemic.
+
+ I will be creating visualization maps featuring the effects of COVID19.A. Introduction
+
+ A.1.Description & Discussion of the Background
+
+ The primary issue that is affecting the world nowadays is COVID-19. No country has been left untouched. It is a deadly infectious disease that the world has never witnessed before. It is responsible for the loss of many lives and left the affected countries in both deep physical and economic depression. 
+
+ This all started in December 2019 in Wuhan, China. Since then it has spread globally at an alarming rate. As a result, the World Health Organization declared the COVID‑19 outbreak as a pandemic on March 11, 2020.  As of May 19, 2020, more than 4.8 million cases have been reported across 188 countries and territories, resulting in more than 315k deaths. It is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). People who are affected by this virus experience fever, cough, fatigue, shortness of breath, and loss of smell and taste. There is no vaccine yet, which means the only method of prevention is through self-quarantine.
+
+ Considering the distressful situation that the world is in, I believe that selecting COVID-19 as my topic makes the most sense. So it's my mere effort to analyze the cumulative data of confirmed cases, deaths, and recovered cases over time. My main focus is to analyze the spread trend of this virus all over the world with the right visualizations and also to cluster the countries affected accordingly.
+
+ We need to build the courage and act in harmony and peace to fight against this situation, hoping to see the world smile again overcoming the fear of death.
+
+  A.2. Data Description
+  In consideration of the COVID 19 problem I have found Open data  available through reliable sources:
+
+  I  have found  Time-series  COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University, the repository has several datasets, among those I will be using dataset featuring the confirmed cases, no of deaths, and active cases by countries, I will be downloading, preprocessing the data, and creating a World map featuring the COVID-19 stats by countries.
+
+  I will also be analyzing the USA country separately, I  have found a Time series dataset which also comes from a public dataset by NYT, located in the GitHub, this dataset provides information on COVID-19 cases per US counties. I will be creating maps to display the stats by counties.
+
+  I will be using the Foursquare API's to analyze single county to see the most affected venues by this pandemic.
+
+  I will be creating visualization maps featuring the effects of COVID19.
